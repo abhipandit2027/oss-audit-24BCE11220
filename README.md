@@ -1,12 +1,13 @@
 # oss-audit-24BCE11220
 Open Source Audit — MySQL
-Overview
+
+# Overview
 
 This repository contains a capstone project for the Open Source Software course. The project presents a structured audit of MySQL, focusing on its origin, licensing model, ecosystem, and comparison with proprietary database systems.
 
 The repository also includes five Linux shell scripts demonstrating practical concepts related to system analysis, package management, and open-source philosophy.
 
-Project Objectives:
+# Project Objectives:
       Analyse MySQL as an open-source software artifact
       Understand the GNU General Public License (GPL v2)
       Study MySQL’s role in the Linux ecosystem
@@ -14,7 +15,7 @@ Project Objectives:
       Compare open-source and proprietary database systems
       Demonstrate Linux scripting concepts through practical scripts
 
-Repository Contents
+# Repository Contents
 1. Project Report
 
 The report covers:
