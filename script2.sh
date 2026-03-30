@@ -25,3 +25,12 @@ case $PACKAGE in
         echo "The database that proved open source could power the entire web." ;;
     git)
         echo "Git: Born from proprietary revocation. Freedom by necessity." ;;
+ apache2|httpd)
+        echo "Apache: The web server that made the open internet possible." ;;
+    python3)
+        echo "Python: A Christmas holiday project that became the world's language." ;;
+    vlc)
+        echo "VLC: Written by students — proof that open tools outlive corporations." ;;
+    *)
+        echo "This is a free and open-source software package. Study its source." ;;
+esac
