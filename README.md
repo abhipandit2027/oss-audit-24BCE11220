@@ -9,14 +9,19 @@ The repository also includes five Linux shell scripts demonstrating practical co
 
 # Project Objectives:
       Analyse MySQL as an open-source software artifact
+      
       Understand the GNU General Public License (GPL v2)
+      
       Study MySQL’s role in the Linux ecosystem
+      
       Explore dependencies and contributions to the FOSS ecosystem
+      
       Compare open-source and proprietary database systems
+      
       Demonstrate Linux scripting concepts through practical scripts
 
 # Repository Contents
-1. Project Report
+# 1. Project Report
 
 The report covers:
 
@@ -26,7 +31,7 @@ Linux installation, directories, and security
 MySQL ecosystem and dependencies
 Comparison with Oracle Database
 
-2. Shell Scripts
+# 2. Shell Scripts
 Script 1 — System Identity Report
 
 Displays system information including kernel, distribution, user details, uptime, and MySQL version.
@@ -47,12 +52,12 @@ Script 5 — Open Source Manifesto Generator
 
 Generates a personalized open-source manifesto based on user input and saves it to a file.
 
-Requirements:
+# Requirements:
       Linux-based operating system (Ubuntu/Debian recommended)
       Bash shell
       MySQL (optional, for full script functionality)
 
-How to Run
+# How to Run
 
 Make scripts executable:chmod +x script_name.sh
 
@@ -60,12 +65,12 @@ Run a script:./script_name.sh
 
 Example:./log_analyzer.sh /var/log/mysql/error.log error
 
-Key Concepts Covered:
+# Key Concepts Covered:
       Open Source Philosophy
       GPL v2 Licensing
       Linux System Administration
       Shell Scripting (Bash)
       File Permissions and Process Management
       Log Analysis
-Conclusion:
+# Conclusion:
 This project demonstrates how MySQL represents both the strengths and complexities of open-source software. It highlights the balance between community-driven development and corporate control, while also providing practical exposure to Linux and scripting.
